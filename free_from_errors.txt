@@ -1,1 +1,3 @@
 Some new file that contains absolutely no errors. Wow, somebody can spell!
+
+My name is Bob and here are some more words.
