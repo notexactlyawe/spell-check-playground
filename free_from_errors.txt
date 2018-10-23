@@ -1,0 +1,5 @@
+Some new file that contains absolutely no errors. Wow, somebody can spell!
+
+My name is Bob and here are some more words. My favourite cake is some foreign language one that I won't write here because I want this pull request to mark this as not having errors.
+
+Rainbows and bunnies and pretty colours for the happy ones. This is British so it will be fine with colours and aluminium.
