@@ -12,3 +12,6 @@ about:
         - question:      "How much does it cost?"
           answer:        >
               Nothing. Attending a hackathon is free.
+        - question:      "Some other questions?"
+          answer:        >
+              Why not sniff my socks?
