@@ -3,4 +3,5 @@ exclude_files:
     - py
     - rb
     - v
+    - java
 yaml_string_language: md
